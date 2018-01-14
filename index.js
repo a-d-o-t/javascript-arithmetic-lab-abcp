@@ -1,5 +1,8 @@
 //ONE
-
+function add(a,b)
+{
+  return a+b
+}
 
 
 //TWO
@@ -27,6 +30,21 @@
 
 
 //EIGHT
+
+
+
+//NINE
+
+
+
+//TEN 
+
+
+
+//ELEVEN
+
+
+
 
 
 
