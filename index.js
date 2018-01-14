@@ -45,7 +45,7 @@ function makeInt(n)
 //EIGHT
 function preserveDecimal(n)
 {
-  
+  return parseFloat(n)
 }
 
 
