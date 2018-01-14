@@ -39,9 +39,10 @@ function dec(n)
 //SEVEN
 function makeInt(n)
 {
-  var n = "nonsense"
   parseInt(n, 10);
   return n;
+  var n = "nonsense";
+  parseInt(n)
 }
 
 
