@@ -23,7 +23,10 @@ function divide(a,b)
 }
 
 //FIVE
-
+function inc(n)
+{
+  return n++
+}
 
 
 //SIX
