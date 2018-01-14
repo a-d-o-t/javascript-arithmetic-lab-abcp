@@ -30,8 +30,11 @@ function inc(n)
 }
 
 //SIX
-
-
+function dec(n)
+{
+  n--;
+  return n
+}
 
 //SEVEN
 
